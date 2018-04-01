@@ -6,7 +6,8 @@ prerequisites
 2. PyAutoGUI API 
 
 
-Installation/Configuration 
+Installation/Configuration in Mac OS 
+http://pyautogui.readthedocs.io/en/latest/install.html
 
 1. Make sure you have python 3.6 installed in you system
 2. Configure virtual environment 
