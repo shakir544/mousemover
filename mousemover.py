@@ -4,8 +4,6 @@
 import pyautogui
 import time
 
-
-
 for i in range(100):
     if i %2 ==0 :
         pyautogui.moveTo(100,400)
